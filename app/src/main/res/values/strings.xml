@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">League Of Champions</string>
+    <string name="edit_competition_title">Edit Competition</string>
+    <string name="competition_entry_title">Add Competition</string>
+    <string name="back_button">Back</string>
+    <string name="no_competition_description">Oops!\nNo competitions in the inventory.\nTap + to add.</string>
 </resources>
